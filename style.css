@@ -1,0 +1,45 @@
+body{
+    border: 3px solid black;
+    text-align: center;
+margin-left: 400px;
+margin-top: 100px;
+margin-right: 400px;
+border-radius: 10px;
+background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg);
+/* background-position:center; */
+background-size: cover;
+}
+
+
+
+h1{
+  font-size: 30px;  
+  color: black;
+ 
+}
+.in{
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+
+}
+.add{
+    border-radius: 5px;
+    color: white;
+    background-color: darkmagenta;
+
+}
+.del{
+    border-radius: 5px;
+    color: white;
+    background-color: darkmagenta;
+
+
+}
+
+#list{
+    
+    list-style: circle;
+    padding-left: 90px;
+    padding-right: 260px;
+}
